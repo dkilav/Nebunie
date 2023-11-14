@@ -1,0 +1,20 @@
+{
+  "name": "tw-elements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i input.css -o output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  },
+  "dependencies": {
+    "alpinejs": "^3.13.2",
+    "swiper": "^11.0.4",
+    "tw-elements": "^1.0.0"
+  }
+}
